@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+}
+
+li{
+    margin-left: 600px;
+    list-style: none;
+    
+}
+tr{
+    border: 2px solid rgb(0, 81, 255)
+}
