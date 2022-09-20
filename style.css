@@ -1,12 +1,35 @@
 ul{
     display: flex;
+    justify-content: left;
 }
 
 li{
     margin-left: 600px;
     list-style: none;
+    justify-content: left;
     
 }
 tr{
     border: 2px solid rgb(0, 81, 255)
+}
+.conteiner{
+
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: center;
+    
+
+    
+    
+}
+.btn{
+
+    width: 200px;
+    border-radius: 3px;
+    border-color: rgb(180, 135, 222);
+
+}
+.checkbox{
+    margin: left 150px; ;
 }
